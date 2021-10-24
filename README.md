@@ -1,0 +1,2 @@
+# Sudoku
+Some Sudoku solvers
